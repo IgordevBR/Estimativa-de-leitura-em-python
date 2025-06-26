@@ -1,2 +1,16 @@
-# Estimativa-de-leitura-em-python
-Este é um programa bem simples com aplicação no terminal Python. O intuito dele é ser um objeto de estudo e desenvolvimento de programação. Futuramente pretendo voltar aqui e criar uma interface usando o Tkinter. Espero que você, leitor, goste : )
+# 📚 Leitura e Cadastro - Python CRUD
+
+Este programa em Python realiza duas principais funcionalidades:
+
+1. **🧑‍💻 Cadastro de Usuários**  
+   - Permite inserir nome, idade, cidade e estado.  
+   - Os dados são armazenados em um arquivo `usuarios.txt`.
+
+2. **📖 Análise de Hábitos de Leitura**  
+   - Coleta informações sobre quantidade de livros lidos, preferências e horas semanais dedicadas à leitura.  
+   - Exibe estimativas de leitura para os próximos anos e médias mensais.  
+   - Oferece feedback com base nos hábitos do usuário.
+
+🔁 O programa roda em loop com menu para cadastro e encerramento.
+
+⚙️ **Versão recomendada do Python:** 3.10 ou superior
